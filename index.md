@@ -6,9 +6,7 @@ title: Abi Green
 <section id="about" markdown="1">
 ## About Me
 
-* Web developer and system architect since the late 90s, with a focus on [ecommerce](https://magento.com) since 2010 and [CRM](https://www.orocrm.com) since 2015.
-* Experienced in a wide range of front and backend technologies, platforms, and methodologies.
-* Anatidaephile
+* Systems architect, technical team lead, developer and advocate with more than 25 years experience building for the web, including over fifteen in ecommerce
 
 </section>
 
@@ -17,6 +15,7 @@ title: Abi Green
 
 * **Meet Magento NL 2025** (6th Nov 2025)  
   *"Good Extension, Bad Extension - How To Tell The Difference Before It's Too Late"*
+  * [Talk](https://medium.com/@abiverde/conference-talk-good-extension-bad-extension-how-to-tell-the-difference-before-its-too-late-823d0a0ba9c6)
   * [Slides](https://speakerdeck.com/abiverde/good-extension-bad-extension-how-to-tell-the-difference-before-its-too-late)
 * **Magento Smackdown** (4th Oct 2025)  
   *"Stop 'Forgetting About' Your Coding Standards With Captain Hook"*
@@ -35,6 +34,7 @@ title: Abi Green
 <section id="work" markdown="1">
 ## Sample Work
 
+* [Klevu Magento 2 Extension](https://github.com/klevu/module-m2-search)
 * [Klevu PHP SDK](https://github.com/klevu/php-sdk)
 * [PHP Pipelines](https://github.com/klevu/php-pipelines)
 
@@ -50,6 +50,7 @@ title: Abi Green
 * **The Distance** - Senior Web Developer (2011 - 2015)
 * **AJ New Media** - Lead Developer / DevOps (2007 - 2010)
 * **Monkey Knife Fight Design** - PHP Developer (2006 - 2007)
+* **Freelance** - Web Design and Development (1999 - 2006)
 
 </section>
 

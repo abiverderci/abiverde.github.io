@@ -4,10 +4,11 @@ description: >-
 baseurl: ""
 url: "https://abiver.de"  # your domain
 show_social_links: true
-github_username: "abi-klevu"
+github_username: "abiverderci"
 linkedin_username: "abiverde"
 instagram_username: "abiverde"
-logo: "assets/img/abi-pfp.jpg"
+patreon_username: "abiverde"
+logo: "assets/img/abi-pfp-2.jpg"
 
 plugins:
   - jekyll-feed

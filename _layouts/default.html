@@ -60,6 +60,12 @@
                 <a href="https://www.instagram.com/{{ site.instagram_username }}">{{ site.instagram_username }}</a>
               </li>
           {% endif %}
+	  {% if site.patreon_username %}
+              <li>
+                <img src="/assets/img/icons/patreon.svg" alt="Patreon" width="32"/>
+                <a href="https://www.patreon.com/{{ site.patreon_username }}">{{ site.patreon_username }}</a>
+              </li>
+	  {% endif %}
         </ul>
         {% endif %}
       </header>
