@@ -14,16 +14,16 @@ title: Abi Green
 ## Talks
 
 * **Meet Magento UK 2026** (25th Jun 2026)  
-  * "Code Artist to Prompt Architect, or: How I Learned To Stop Worrying And Love The Prompt"* (Lightning Talk)
+  *"Code Artist to Prompt Architect, or: How I Learned To Stop Worrying And Love The Prompt"* (Lightning Talk)
 * **Magento Minds of Manchester: Magento Data Panic in the Year 2026** (25th Jun 2026)  
-  * "Did It Sync, or Did It Just Not Error?"*
+  *"Did It Sync, or Did It Just Not Error?"*
   * [Slides](https://speakerdeck.com/abiverde/stop-forgetting-about-your-coding-standards-with-captain-hook)
 * **Meet Magento NL 2025** (6th Nov 2025)  
-  * "Good Extension, Bad Extension - How To Tell The Difference Before It's Too Late"*
+  *"Good Extension, Bad Extension - How To Tell The Difference Before It's Too Late"*
   * [Talk](https://medium.com/@abiverde/conference-talk-good-extension-bad-extension-how-to-tell-the-difference-before-its-too-late-823d0a0ba9c6)
   * [Slides](https://speakerdeck.com/abiverde/good-extension-bad-extension-how-to-tell-the-difference-before-its-too-late)
 * **Magento Minds of Manchester: Magento Smackdown** (4th Oct 2025)  
-  * "Stop 'Forgetting About' Your Coding Standards With Captain Hook"*
+  *"Stop 'Forgetting About' Your Coding Standards With Captain Hook"*
   * [Slides](https://speakerdeck.com/abiverde/stop-forgetting-about-your-coding-standards-with-captain-hook)
 
 </section>
