@@ -13,7 +13,7 @@ title: Abi Green
 <section id="calendar" markdown="1">
 ## Talks
 
-* **Meet Magento UK 2026** (25th Jun 2026)  
+* **Meet Magento UK 2026** (7th Jul 2026)  
   *"Code Artist to Prompt Architect, or: How I Learned To Stop Worrying And Love The Prompt"* (Lightning Talk)
 * **Magento Minds of Manchester: Magento Data Panic in the Year 2026** (25th Jun 2026)  
   *"Did It Sync, or Did It Just Not Error?"*
