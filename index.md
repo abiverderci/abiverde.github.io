@@ -32,7 +32,7 @@ title: Abi Green
 <section id="articles" markdown="1">
 ## Articles
 
-* **[How To Be An Ally In A Shifting Employer Landscape](https://groundedhr.co.uk/how-to-be-an-ally)  
+* **[How To Be An Ally In A Shifting Employer Landscape](https://groundedhr.co.uk/how-to-be-an-ally)**  
   *Guest article for Grounded HR*
 * **[Musings of a Trans Woman in Tech](https://groundedhr.co.uk/musings-of-a-trans-woman-in-tech)**  
   *Pride 2026 - Guest article for Grounded HR*
