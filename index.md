@@ -14,7 +14,8 @@ title: Abi Green
 ## Talks
 
 * **Meet Magento UK 2026** (7th Jul 2026)  
-  *"Code Artist to Prompt Architect, or: How I Learned To Stop Worrying And Love The Prompt"* (Lightning Talk)
+  *"Code Artist to Prompt Architect, or: How I Learned To Stop Worrying And Love The Prompt"* (Lightning Talk)  
+  * [Slides](https://speakerdeck.com/abiverde/code-artist-to-prompt-architect-or-how-i-learned-to-stop-worrying-and-love-the-prompt)
 * **Magento Minds of Manchester: Magento Data Panic in the Year 2026** (25th Jun 2026)  
   *"Did It Sync, or Did It Just Not Error?"*
   * [Slides](https://speakerdeck.com/abiverde/stop-forgetting-about-your-coding-standards-with-captain-hook)
@@ -31,6 +32,8 @@ title: Abi Green
 <section id="articles" markdown="1">
 ## Articles
 
+* **[How To Be An Ally In A Shifting Employer Landscape](https://groundedhr.co.uk/how-to-be-an-ally)  
+  *Guest article for Grounded HR*
 * **[Musings of a Trans Woman in Tech](https://groundedhr.co.uk/musings-of-a-trans-woman-in-tech)**  
   *Pride 2026 - Guest article for Grounded HR*
 * **[I'm Visible Because Others Can't Be](https://medium.com/@abiverde/im-visible-because-others-can-t-be-tdov-2026-b7aa259d6065)**  
